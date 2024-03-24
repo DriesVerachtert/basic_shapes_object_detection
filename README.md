@@ -63,11 +63,11 @@ All images have the same size. Each image has exactly 1 square, 1 circle and 1 t
 
 The dataset has exactly the same structure as the https://huggingface.co/datasets/cppe-5 dataset, but fine-tuning some model to this dataset with basic geometric shapes should require considerable less training compared to the cppe-5 dataset. Once you have tested your fine-tuning code on this dataset, it should also work on more complicated datasets such as the cppe-5 dataset.
 
-![](https://github.com/DriesVerachtert/basic_shapes_object_detection/blob/main/examples.png)
+![](https://github.com/DriesVerachtert/basic_shapes_object_detection_dataset/blob/main/examples.png)
 
 ## Links
 
-The Python code to generate the images can be found at https://github.com/DriesVerachtert/basic_shapes_object_detection
+The Python code to generate the images can be found at https://github.com/DriesVerachtert/basic_shapes_object_detection_dataset
 The dataset can be downloaded from https://huggingface.co/datasets/driesverachtert/basic_shapes_object_detection
 
 ## Structure
